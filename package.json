@@ -1,0 +1,28 @@
+{
+    "name": "burgos-use-visible-callback",
+    "version": "1.0.0",
+    "description": "custom hook for executing a callback when a component is visible on the viewport",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+        "dist/"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nandobfer/burgos-use-visible-callback.git"
+    },
+    "keywords": [],
+    "author": "burgos",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nandobfer/burgos-use-visible-callback/issues"
+    },
+    "homepage": "https://github.com/nandobfer/burgos-use-visible-callback#readme",
+    "peerDependencies": {
+        "react": "^18.2.0"
+    }
+}
